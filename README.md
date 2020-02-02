@@ -1,2 +1,2 @@
 # TSP-using-PSO
-Particle Swarm Optimization using TSP
+Discretized Particle Swarm Optimization using TSP
